@@ -1,0 +1,4 @@
+<?php
+
+// PROPRIEDADES = VARIÁVEIS 
+// MÉTODOS = FUNÇÃO 
