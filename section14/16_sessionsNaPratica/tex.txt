@@ -1,0 +1,14 @@
+
+● Para iniciar a utilizar session precisamos utilizar a função session_start;
+● Esta função vai carregar os dados existentes e também permitir salvar
+novos dados;
+● Todas as variáveis salvas em session ficam em $_SESSION;
+● Podemos salvar utilizando uma chave e valor, como em arrays;
+● Para deletar todos os dados da session utilizamos session_destroy;
+
+● As sessions são salvas em arquivos no computador que estamos ou no
+servidor da aplicação;
+● O caminho para onde os arquivos são salvos fica em php.ini na
+configuração session.save_path;
+● As sessions podem ser salvas em dois formatos: o próprio do PHP e
+também o Web Distributed Data eXchange (WDDX)

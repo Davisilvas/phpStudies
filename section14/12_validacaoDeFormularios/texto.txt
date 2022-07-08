@@ -1,0 +1,5 @@
+// A validação é uma parte importante do recebimento de Dados.
+// Devemos checar se os dados enviados condizem com o que estamos esperando.
+// Para isso podemos criar condicionais fazendo as verificações
+// Caso alguma não atenta ou um campo obrigatório esteja vazio, retornamos uma mensagem vazia ao usuário.
+// obs é possível fazer validações com HTML e também com JavaScript

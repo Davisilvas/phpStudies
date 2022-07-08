@@ -1,0 +1,5 @@
+// Podemos criar uma página de dados que faz o processamente dos dados e também exibe o input de informações. 
+// Para isso devemos criar um if que checa se o método da requisição ($_SERVER['REQUEST_METHOD]) é GET ou POST
+// Depois de criar as duas variações, para uma cada uma das possibilidades. Ou checar se algum parâmetro veio pela requisição e então criar as variações.
+
+// AUTO PROCESSAMENTO = UMA PÁGINA QUE CUMPRE DUAS FUNÇÕES
