@@ -1,0 +1,5 @@
+<?php 
+
+// DROP TABLE teste;
+
+?>

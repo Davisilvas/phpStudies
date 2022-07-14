@@ -1,0 +1,5 @@
+● A NOT NULL é uma constraint;
+● Esta constraint não permite que o dado adicionado a esta coluna esteja
+vazio;
+● Exemplo:
+nome VARCHAR(100) NOT NULL
